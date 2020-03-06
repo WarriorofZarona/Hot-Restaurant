@@ -12,6 +12,9 @@ h1 {
     padding-bottom: 30px;
 }
 
+#formcontainer{
+    border-radius: 5px;
+    background-color: #e9ecef;
 h3 {
     padding-top: 15px;
 }
