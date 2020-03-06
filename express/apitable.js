@@ -21,7 +21,7 @@ module.exports = function(app) {
       res.json(tableArray);
     });
   
-    app.get("/api/waitlist", function(req, res) {
+    app.get("/api/waitlist.", function(req, res) {
       res.json(waitingArray);
     });
   
