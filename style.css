@@ -12,10 +12,11 @@ h1 {
     padding-bottom: 30px;
 }
 
-#formcontainer{
+#formcontainer {
     border-radius: 5px;
     background-color: #e9ecef;
 }
+
 h3 {
     padding-top: 15px;
 }
@@ -27,6 +28,12 @@ h3 {
 .reservationButton {
     font-size: 20px;
 }
+
+
+a {
+    font-size: 15px;
+}
+
 #current{
     background-color: #e9ecef; 
 }
