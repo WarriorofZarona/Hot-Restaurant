@@ -27,3 +27,10 @@ h3 {
 .reservationButton {
     font-size: 20px;
 }
+#current{
+    background-color: #e9ecef; 
+}
+
+#waiting{
+    background-color: #e9ecef;
+}
