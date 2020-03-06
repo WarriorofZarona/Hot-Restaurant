@@ -45,3 +45,7 @@ a {
     color: white;
     font-size: 20px;
 }
+.buttons:hover{
+    text-decoration: none;
+    color: white;
+}
