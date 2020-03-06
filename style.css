@@ -11,3 +11,15 @@ h1 {
     font-size: 60px;
     padding-bottom: 30px;
 }
+
+h3 {
+    padding-top: 15px;
+}
+
+.tableButton {
+    font-size: 20px;
+}
+
+.reservationButton {
+    font-size: 20px;
+}
