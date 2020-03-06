@@ -19,6 +19,8 @@ app.get("/reservation", function (req, res) {
     
     res.sendFile(path.join(__dirname, "reservation.html"));
 });
+require("apitable")(app);
+
 app.listen(PORT, function () {
     console.log("App listening on PORT " + PORT);
 });
